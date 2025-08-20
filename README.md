@@ -1,16 +1,11 @@
-## Hi there 👋
+# PHP DEVELOPER
+### Can you join me on the back-side of the force?
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+<div style="display: inline_block"><br/>
+<ul>
+    <li>Wake </li>
+    <li>Code</li>
+    <li>S̵l̵e̵e̵p̵</li>
+</ul>
 
-<!--
-**FelipeSousa-doc/FelipeSousa-doc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
